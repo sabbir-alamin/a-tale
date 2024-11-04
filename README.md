@@ -1,2 +1,2 @@
 # a-tale
-this repo contains a tale
+just a repo
